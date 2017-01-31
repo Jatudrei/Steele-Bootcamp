@@ -1,0 +1,19 @@
+.black {
+background-color: black;
+}
+
+/*.teal {
+background-color: teal;
+}*/
+
+table {
+margin-left: auto;
+margin-right: auto;
+border: 1px black solid;
+}
+
+td {
+height: 75px;
+width: 75px;
+
+}
