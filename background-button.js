@@ -5,7 +5,7 @@ var body = document.querySelector("body");
 
 button.addEventListener("click", function() {
     if (body.style.background === "purple") {
-        body.style.background = "gold";
+        body.style.background = "white";
     } else {
     body.style.background = "purple";
     }
