@@ -8,16 +8,16 @@ var resetButton = document.getElementById("resetButton");
 var input = document.querySelector("input");
 var maxScore = 5;
 var score = document.querySelector("#score");
+var gameOver = false;
 
 
 // Incrementing player1Score by Clicking player1Button
 player1Button.addEventListener("click", function() {
     player1CurrScore++;
     player1Score.textContent = player1CurrScore;
-//    alert(player1CurrScore+ " " + typeof(player1CurrScore) + " " + maxScore + " " + typeof(maxScore) );
     if (player1CurrScore === maxScore) {
-//        alert("Hello Mickey Mouse");
-        endGame(player1Score);
+        player1Score.style.color="green";
+        endGame();
     };
 });
 
@@ -26,31 +26,35 @@ player2Button.addEventListener("click", function() {
     player2CurrScore++;
     player2Score.textContent = player2CurrScore;
     if (player2CurrScore === maxScore) {
-//      alert("Hello Mickey Mouse");
-        endGame(player2Score);
+        player2Score.style.color="green";
+        endGame();
     };
 });
 
-// Resetting Scores By Clicking Reset Button
+// Resetting Everything By Clicking Reset Button
 resetButton.addEventListener("click", function(){
     player1CurrScore = 0;
     player2CurrScore = 0;
     player1Score.textContent = player1CurrScore;
     player2Score.textContent = player2CurrScore;
+    player1Button.removeAttribute("disabled");
+    player2Button.removeAttribute("disabled");
+    player1Score.style.color="black";
+    player2Score.style.color="black";
+    maxScore = 5;
+    score.textContent = maxScore;
 });
 
 // Changing Max Score by Using Text Input
 input.addEventListener("change", function() {
-    maxScore = number(input.value);
+    maxScore = Number(input.value);
     score.textContent = maxScore;
     input.value = "";
 });
 
 function endGame(winScore) {
-    alert("endGame function");
-    winScore.style.color = "green";
-    player1Button.removeEventListener("click");
-    player2Button.removeEventListener;
+    player1Button.setAttribute("disabled", "true");
+    player2Button.setAttribute("disabled", "true");
 };
 
 
