@@ -8,7 +8,6 @@ var resetButton = document.getElementById("resetButton");
 var input = document.querySelector("input");
 var maxScore = 5;
 var score = document.querySelector("#score");
-var gameOver = false;
 
 
 // Incrementing player1Score by Clicking player1Button
@@ -31,8 +30,26 @@ player2Button.addEventListener("click", function() {
     };
 });
 
-// Resetting Everything By Clicking Reset Button
 resetButton.addEventListener("click", function(){
+    reset();
+});
+
+// Changing Max Score by Using Number Input
+// Also Resetting Everything
+input.addEventListener("change", function() {
+    reset();
+    maxScore = Number(this.value);
+    score.textContent = this.value;
+    this.value = "";
+});
+
+function endGame(winScore) {
+    player1Button.setAttribute("disabled", "true");
+    player2Button.setAttribute("disabled", "true");
+};
+
+// Resetting Everything
+function reset() {
     player1CurrScore = 0;
     player2CurrScore = 0;
     player1Score.textContent = player1CurrScore;
@@ -43,18 +60,6 @@ resetButton.addEventListener("click", function(){
     player2Score.style.color="black";
     maxScore = 5;
     score.textContent = maxScore;
-});
-
-// Changing Max Score by Using Text Input
-input.addEventListener("change", function() {
-    maxScore = Number(input.value);
-    score.textContent = maxScore;
-    input.value = "";
-});
-
-function endGame(winScore) {
-    player1Button.setAttribute("disabled", "true");
-    player2Button.setAttribute("disabled", "true");
-};
+}
 
 
