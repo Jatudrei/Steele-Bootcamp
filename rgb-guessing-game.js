@@ -17,6 +17,7 @@ easyBtn.addEventListener("click", function(){
     colors = generateRandomColors(numSquares);
     pickedColor = pickColor();
     colorDisplay.textContent = pickedColor;
+    messageDisplay.textContent = "";
     for (var i = 0; i < squares.length; i++){
         if (colors[i]) {
         squares[i].style.background = colors[i];
@@ -36,6 +37,8 @@ hardBtn.addEventListener("click", function(){
     for (var i = 0; i < squares.length; i++) {
         squares[i].style.background = colors[i];
         squares[i].style.display = "block";}
+        messageDisplay.textContent = "";
+
 });
 
 resetButton.addEventListener("click", function(){
@@ -57,7 +60,7 @@ resetButton.addEventListener("click", function(){
     messageDisplay.textContent = "";
 
     // restore start color to info strip
-    h1.style.background = "#232323";
+    h1.style.background = "CornflowerBlue";
 
     // restore button text
     resetButton.textContent = "New Colors";
