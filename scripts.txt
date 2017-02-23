@@ -1,0 +1,4 @@
+<link rel="stylesheet" type="text/css" href="rgb-guessing-game.css">
+<script type="text/javascript" src="rgb-guessing-game.js"></script>
+<script type = "text/javascript" src = "lib/jquery-3.1.1.js"></script>  //for dev
+<script type = "text/javascript" src = "jquery-3.1.1.min.js"></script>  //for production
