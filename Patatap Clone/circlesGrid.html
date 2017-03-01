@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circles</title>
+    <script type = "text/javascript" src = "assets/js/lib/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="assets/paperjs-v0.10.2/dist/paper-full.js"></script>
+    <script type="text/paperscript" canvas="myCanvas">
+
+        for (x = 15; x < 9000; x += 100) {
+            var newX = Math.floor(x%1000);
+            var newY = Math.floor(x/1000);
+            newY = newY * 100 + 15;
+            var myCircle = new Path.Circle(new Point(newX, newY), 10).fillColor="gold";
+            console.log(myCircle);
+         }
+    </script>
+    <link rel="stylesheet" type="text/css" href="assets/css/patatapcircles.css">
+</head>
+<body>
+<h1>Patatap Goes Here</h1>
+<canvas id="myCanvas" resize></canvas>
+
+
+
+
+
+<script type="text/javascript" src="assets/js/patatapcircles.js"></script>
+</body>
+</html>
