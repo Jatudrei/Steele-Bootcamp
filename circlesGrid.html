@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circles Grid</title>
+    <script type = "text/javascript" src = "PatatapClone/assets/js/lib/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="PatatapClone/assets/paperjs-v0.10.2/dist/paper-full.js"></script>
+    <script type="text/paperscript" canvas="myCanvas">
+    for (x = 15; x < 9000; x += 100) {
+        var newX = Math.floor(x%1000);
+        var newY = Math.floor(x/1000);
+        newY = newY * 100 + 15;
+        var myCircle = new Path.Circle(new Point(newX, newY), 10).fillColor="gold";
+        console.log(myCircle);
+    }
+
+    </script>
+    <link rel="stylesheet" type="text/css" href="PatatapClone/assets/css/patatapcircles.css">
+</head>
+<body>
+
+<canvas id="myCanvas" resize></canvas>
+
+
+
+
+
+<script type="text/javascript" src="assets/js/patatapcircles.js"></script>
+</body>
+</html>
