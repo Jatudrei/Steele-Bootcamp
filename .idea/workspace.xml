@@ -6,217 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac259c4-4519-47ab-b680-64dc139a35ba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/PaperJSExercise.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/PaperJSExercise/Exercise/ExerciseSolution.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/PaperJSExercise/Exercise/circles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/PaperJSExercise/Exercise/paper-full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/PaperJSExercise/__MACOSX/Exercise/._paper-full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/css/patatapcircles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/js/lib/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/js/patatapcircles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/dist/paper-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/dist/paper-core.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/dist/paper-full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/dist/paper-full.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/assets/css/docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/assets/js/codemirror.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/assets/js/docs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/assets/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/assets/js/paper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Color.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/CompoundPath.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Curve.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/CurveLocation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Event.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Gradient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/GradientStop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Group.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/HitResult.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Key.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/KeyEvent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Layer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Line.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Matrix.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/MouseEvent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/PaperScope.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/PaperScript.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Path.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/PathItem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Point.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/PointText.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Project.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Raster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Rectangle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Segment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Shape.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Size.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Style.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/SymbolDefinition.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/SymbolItem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/TextItem.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/Tool.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/ToolEvent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/View.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/global.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/classes/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/AnimatedStar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/BooleanOperations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/CandyCrash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/Extruded.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/Lines.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/Smoothing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/Space.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Animated/SpaceUsingShapes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Games/Paperoids.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Circle Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Compound Path.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Empty Path Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Gradients.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Group Transform.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Line Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Random Path Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Raster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Rect and Attribute Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Rotated Primitives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Selection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Shapes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Symbols.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Text Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Tiger.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Transform Test 1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/JSON/Transform Test 2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/AnimatedStar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/BooleanOperations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/JSONtoPDF.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/Raster.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/RasterRemote.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/SvgExport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/SvgImport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/Tadpoles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/Tadpoles.pjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/in.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Node.js/in.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/BouncingBalls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/Chain.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/DivisionRaster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/FutureSplash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/HitTesting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/InteractiveTiger.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/MetaBalls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/NyanRainbow.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/PathIntersections.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/Qbertify.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/RadialRainbows.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/RoundedRectangles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/SatieLikedToDraw.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/Simplify.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/SpiralRaster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/Tadpoles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Paperjs.org/Voronoi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Rasters/PhyllotaxisRaster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Rasters/Raster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Rasters/RotationRaster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Circle Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Clipping.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Compound Path.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Empty Path Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Gradients.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Group Transform.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Line Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Random Path Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Raster.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Rect and Attribute Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Rotated Primitives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Shapes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Symbols.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Text Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Tiger.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Transform Test 1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Export/Transform Test 2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Arcs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Butterfly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Circle and Ellipse Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Clipping.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/From File.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Gradient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Gradients.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Inkscape Pivot.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Inkscape.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Line Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/MoreGradients.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Multiple Paths Test 1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Multiple Paths Test 2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Nested Groups Test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Polybezier.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Rect Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Symbols.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Text Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Tiger.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Transform Testing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/SVG Import/Viewbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/Arcs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/BlendModes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/BooleanOperations.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/CompoundPath.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/CurveTimeParameterization.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/HslColor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/PathStructure.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/Resize.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/RoundRectangle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/Shapes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/StrokeBounds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Scripts/StrokeScaling.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/BezierTool.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/Circles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/Clouds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/DrippingBrush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/FancyBrush.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/Grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/MultiLines.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/MultipleTools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/PathEditing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/SquareRounded.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/Stars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/Vektor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/Wave.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Tools/WormFarm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Worker/Main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/Worker/Worker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/paperjs-v0.10.2/examples/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/bubbles.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/clay.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/confetti.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/corona.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/dotted-spiral.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/flash-1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/flash-2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/flash-3.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/glimmer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/moon.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/pinwheel.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/piston-1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/piston-2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/piston-3.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/prism-1.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/prism-2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/prism-3.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/splits.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/squiggle.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/strike.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/suspension.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/timer.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/ufo.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/veil.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/wipe.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/assets/sounds/zig-zag.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/circlesGrid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Patatap Clone/patatapcircles.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PatatapClone/patatapcircles.html" afterPath="$PROJECT_DIR$/PatatapClone/patatapcircles.html" />
     </list>
     <ignored path="Steele Bootcamp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -249,8 +39,8 @@
       <file leaf-file-name="patatapcircles.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PatatapClone/patatapcircles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="148">
+              <caret line="197" column="35" selection-start-line="197" selection-start-column="35" selection-end-line="197" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -336,10 +126,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="170" />
-    <option name="y" value="211" />
-    <option name="width" value="1172" />
-    <option name="height" value="733" />
+    <option name="x" value="679" />
+    <option name="y" value="74" />
+    <option name="width" value="1011" />
+    <option name="height" value="425" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -366,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -526,6 +315,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -734,27 +524,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="170" y="211" width="1172" height="733" extended-state="1" />
+    <frame x="679" y="74" width="1011" height="425" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826748" sideWeight="0.51877135" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0057142857" sideWeight="0.51877135" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826748" sideWeight="0.48122868" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826748" sideWeight="0.48122868" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0051369863" sideWeight="0.7823034" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1043,35 +833,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Patatap Clone/assets/js/patatapcircles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patatap Clone/patatapcircles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Patatap Clone/circlesGrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Patatap Clone/assets/js/patatapcircles.js" />
+    <entry file="file://$PROJECT_DIR$/Patatap Clone/patatapcircles.html" />
+    <entry file="file://$PROJECT_DIR$/Patatap Clone/circlesGrid.html" />
     <entry file="file://$PROJECT_DIR$/circlesGrid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,8 +868,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PatatapClone/patatapcircles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="148">
+          <caret line="197" column="35" selection-start-line="197" selection-start-column="35" selection-end-line="197" selection-end-column="35" />
           <folding />
         </state>
       </provider>
